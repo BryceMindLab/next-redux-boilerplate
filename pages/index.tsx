@@ -3,8 +3,8 @@ import Header from '../components/Header';
 import styled from 'styled-components';
 
 const Title = styled.h1`
-	font-size: 10rem;
-	color: ${({ theme }) => theme.colors.primary || '#ffffff'};
+	font-size: 2rem;
+	color: ${({ theme }: { theme: Theme }) => theme.colors.primary || '#ffffff'};
 `;
 
 export const Home: NextPage<{ userAgent: string }> = ({ userAgent }) => {

@@ -1,7 +1,7 @@
 import { NextPage } from 'next';
 import Header from '../components/Header';
 
-export const About: NextPage = ({ theme }) => {
+export const About: NextPage = () => {
 	return (
 		<div>
 			<Header />

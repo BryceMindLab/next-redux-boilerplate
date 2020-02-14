@@ -2,9 +2,10 @@ import App from 'next/app';
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
 
-const theme = {
+const theme: Theme = {
 	colors: {
 		primary: '#0070f3',
+		secondary: '#FF146A',
 	},
 };
 

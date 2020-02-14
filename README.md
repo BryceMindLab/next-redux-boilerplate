@@ -28,8 +28,9 @@ https://nextjs.org/docs/routing/introduction
 https://sergiodxa.com/articles/next-file-structure/
 
 # TODO: 
-- Proptypes
+- Prop-types
 - StoryBook
 - Redux / Redux Sagas
-- Snackbar 
+- Snack-bar 
+- Prettier
 
