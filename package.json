@@ -21,10 +21,12 @@
 	},
 	"homepage": "https://github.com/BryceDoganer/next-redux-boilerplate#readme",
 	"dependencies": {
+		"@types/react-redux": "^7.1.7",
 		"@types/styled-components": "^4.4.3",
 		"next": "^9.2.1",
 		"react": "^16.12.0",
 		"react-dom": "^16.12.0",
+		"react-redux": "^7.2.0",
 		"styled-components": "^5.0.1"
 	},
 	"devDependencies": {
