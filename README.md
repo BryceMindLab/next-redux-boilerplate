@@ -12,11 +12,13 @@ Boilerplate code for NextJS, Redux, Styled Components and Storybook in Typescrip
 
 ### Add `Typescript` and `@types` 
 `npm install --save-dev typescript @types/react @types/node`  
-[React in Typescript ⌨️](https://fettblog.eu/typescript-react/components/)
+[⌨️ React in Typescript](https://fettblog.eu/typescript-react/components/)
 
 ## Redux
-[React-Redux Tips! 😀](https://blog.isquaredsoftware.com/presentations/workshops/redux-fundamentals/react-redux.html#/0)  
+[😀 React-Redux Tips!](https://blog.isquaredsoftware.com/presentations/workshops/redux-fundamentals/react-redux.html#/0)  
 `npm install react-redux @types/react-redux` 
+
+![redux-diagram](images/redux-diagram.png)
 
 ## [Styled Components](https://styled-components.com/docs)
 `npm install --save styled-components @types/styled-components`  
