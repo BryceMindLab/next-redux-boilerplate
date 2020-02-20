@@ -15,8 +15,10 @@ Boilerplate code for NextJS, Redux, Styled Components and Storybook in Typescrip
 [⌨️ React in Typescript](https://fettblog.eu/typescript-react/components/)
 
 ## Redux
-[😀 React-Redux Tips!](https://blog.isquaredsoftware.com/presentations/workshops/redux-fundamentals/react-redux.html#/0)  
 `npm install react-redux @types/react-redux` 
+- [😀 React-Redux Tips!](https://blog.isquaredsoftware.com/presentations/workshops/redux-fundamentals/react-redux.html#/0)  
+- [Organizing Redux Applications](https://jaysoo.ca/2016/02/28/organizing-redux-application/)
+- [Redux with Ducks](https://www.freecodecamp.org/news/scaling-your-redux-app-with-ducks-6115955638be/)
 
 ![redux-diagram](images/redux-diagram.png)
 
